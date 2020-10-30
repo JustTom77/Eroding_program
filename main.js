@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; //test
 
 let viereck_programm_erstellen = {
   x_start_maß: null,
